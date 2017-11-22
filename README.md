@@ -6,7 +6,7 @@
 5. Go back to Keymapper, and click Download. If you followed the guide correctly, you'll see BAD on all columns and rows.
 6. Select Load keymap_part.hex or json and select the Exent 65 hex file.
 7. Tick Reboot after uploading and select Upload.
-8. DONE. This is essentially how to flash all bootmapper firmware pcbs. 
+8. DONE. You can now remap keys as you want by selecting the specific key above and then selecting the function below. Upload and reboot. 
 
 # Underglow RGB Leds
 1. Once you're done flashing, go to Options. 
