@@ -1,5 +1,5 @@
 # Exent-Bootmapper
-1. Download Bootmapper client from https://www.dropbox.com/s/3bn9flirkb49ahz/BootMapperClient.zip?dl=0
+1. Download Bootmapper client from https://www.dropbox.com/s/3bn9flirkb49ahz/BootMapperClient.zip?dl=0 and the hex files from this rep.
 2. Open bootmapper client
 3. Short LEFT CTRL on your PCB with tweezers while plugging into a DIRECT usb port (You'll hear a sound if it connects successfully)
 4. Go to Options, click Firm Up and select the ps2avrGB_NKRO.hex file. Wait for it to finish.
